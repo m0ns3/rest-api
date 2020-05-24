@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "name": "Eloquent JavaScript",
+        "authorId": "1"
+    },
+    {
+        "id": "2",
+        "name": "Learning JavaScript Design Patterns",
+        "authorId": "2"
+    },
+    {
+        "id": "3",
+        "name": "Speaking JavaScript",
+        "authorId": "3"
+    }
+]
